@@ -18,24 +18,7 @@ Power Query
 DAX
 GitHub
 Inteligencia Artificial (ChatGPT / Copilot)
-Estructura del Proyecto
-RetailPro
-│
-├── SQL/
-│   ├── consultas_analiticas.sql
-│   ├── joins.sql
-│   └── reportes.sql
-│
-├── PowerBI/
-│   ├── Silva_Manuel_Checkpoint2.pbix
-│   └── Dashboard_RetailPro.pbix
-│
-├── Documentacion/
-│   ├── Checkpoint1.pdf
-│   ├── Checkpoint2.pdf
-│   └── IA_en_el_flujo_del_proyecto.pdf
-│
-└── README.md
+
 Consultas Principales
 Vista Base del Proyecto
 Integra ventas, clientes, productos y categorías mediante INNER JOIN para generar una vista consolidada para el análisis.
